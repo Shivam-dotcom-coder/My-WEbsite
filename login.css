@@ -141,7 +141,7 @@ body{
   gap: 12px;
 }
 
-#app-login button{
+#app-login a  button{
      display: flex;
   align-items: center;
   justify-content: center;
@@ -170,3 +170,4 @@ body{
   white-space: nowrap;
   cursor: pointer;
 }
+
