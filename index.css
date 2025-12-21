@@ -238,4 +238,11 @@ footer {
         padding: 5px 0;
         font-size: 14px;
     }
+
+}
+
+
+#products h2{
+    background-color: blue;
+    color: white;
 }
